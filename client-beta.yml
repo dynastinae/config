@@ -1,4 +1,4 @@
 iaas:
-  domain: bus-refresh
+  domain: busbus
   platform-type-code: vpc
-  profile: cloud-bus
+  profile: not-scope
