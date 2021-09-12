@@ -1,4 +1,4 @@
 iaas:
-  domain: finfinfin
+  domain: fin
   platform-type-code: vpc
-  profile: bbeettaa
+  profile: beta
