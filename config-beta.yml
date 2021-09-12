@@ -1,4 +1,4 @@
 iaas:
-  domoain: pub
+  domain: pubasdf
   platform-type-code: vpc
   profile: changeprofile

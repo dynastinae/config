@@ -1,4 +1,4 @@
 iaas:
-  domoain: pub
+  domain: pub
   platform-type-code: vpc
   profile: dev
