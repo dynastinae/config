@@ -1,0 +1,4 @@
+iaas:
+  domoain: pub
+  platform-type-code: vpc
+  profile: beta
